@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E9D-5BFC
+
+ Directory of C:\Users\rajib\OneDrive\Desktop\MyProject
+
+07-07-2021  05:04 PM    <DIR>          .
+07-07-2021  05:04 PM    <DIR>          ..
+07-07-2021  05:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  395,039,977,472 bytes free
